@@ -69,3 +69,31 @@ aegisx/
       types/
       mock/
 ```
+
+
+
+![image alt](https://github.com/junayedvai/soc-2/blob/main/Screenshot%202026-02-26%20at%2007-33-01%20AegisX%20%E2%80%93%20Unified%20AI-Augmented%20SOC%20Command%20Center.png)
+
+![image alt](https://github.com/junayedvai/soc-2/blob/main/Screenshot%202026-02-26%20at%2007-33-08%20AegisX%20%E2%80%93%20Unified%20AI-Augmented%20SOC%20Command%20Center.png)
+
+![image alt](https://github.com/junayedvai/soc-2/blob/main/Screenshot%202026-02-26%20at%2007-33-16%20AegisX%20%E2%80%93%20Unified%20AI-Augmented%20SOC%20Command%20Center.png)
+
+![image alt](https://github.com/junayedvai/soc-2/blob/main/Screenshot%202026-02-26%20at%2007-33-25%20AegisX%20%E2%80%93%20Unified%20AI-Augmented%20SOC%20Command%20Center.png)
+
+![image alt](https://github.com/junayedvai/soc-2/blob/main/Screenshot%202026-02-26%20at%2007-33-32%20AegisX%20%E2%80%93%20Unified%20AI-Augmented%20SOC%20Command%20Center.png)
+
+![image alt](https://github.com/junayedvai/soc-2/blob/main/Screenshot%202026-02-26%20at%2007-33-43%20AegisX%20%E2%80%93%20Unified%20AI-Augmented%20SOC%20Command%20Center.png)
+
+![image alt](https://github.com/junayedvai/soc-2/blob/main/Screenshot%202026-02-26%20at%2007-33-50%20AegisX%20%E2%80%93%20Unified%20AI-Augmented%20SOC%20Command%20Center.png)
+
+![image alt](https://github.com/junayedvai/soc-2/blob/main/Screenshot%202026-02-26%20at%2007-33-56%20AegisX%20%E2%80%93%20Unified%20AI-Augmented%20SOC%20Command%20Center.png)
+
+![image alt](https://github.com/junayedvai/soc-2/blob/main/Screenshot%202026-02-26%20at%2007-34-02%20AegisX%20%E2%80%93%20Unified%20AI-Augmented%20SOC%20Command%20Center.png)
+
+![image alt](https://github.com/junayedvai/soc-2/blob/main/Screenshot%202026-02-26%20at%2007-34-09%20AegisX%20%E2%80%93%20Unified%20AI-Augmented%20SOC%20Command%20Center.png)
+
+![image alt](https://github.com/junayedvai/soc-2/blob/main/Screenshot%202026-02-26%20at%2007-34-15%20AegisX%20%E2%80%93%20Unified%20AI-Augmented%20SOC%20Command%20Center.png)
+
+![image alt](https://github.com/junayedvai/soc-2/blob/main/Screenshot%202026-02-26%20at%2007-34-54%20AegisX%20%E2%80%93%20Unified%20AI-Augmented%20SOC%20Command%20Center.png)
+
+![image alt](https://github.com/junayedvai/soc-2/blob/main/Screenshot%202026-02-26%20at%2007-35-14%20AegisX%20%E2%80%93%20Unified%20AI-Augmented%20SOC%20Command%20Center.png)
